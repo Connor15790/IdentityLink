@@ -10,3 +10,10 @@ Key Features:
 
 # Home Page
 <img src="media/Home.png" alt="Alt text" width="600"/>
+
+This is the home page of the website, where users are prompted to activate their camera to capture a live image of their face. Upon pressing the "SNAP" button, the application processes the captured image and attempts to match the face with records stored in the database. If a match is found, the corresponding user information is retrieved and displayed.
+
+# Result Page
+<img src="media/Result.png" alt="Alt text" width="600"/>
+
+If the person's face is matched in the database, their biodata will be displayed in the result page.
