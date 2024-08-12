@@ -8,4 +8,4 @@ Key Features:
 4. Data Management: Employs SQLite3 for storing and managing user data, making it easy to access and update records.
 5. NumPy Integration: Uses NumPy for efficient numerical operations, particularly in handling and processing image data.
 
-<img src="path/to/your/image.png" alt="Alt text" width="200"/>
+<img src="media/Home.png" alt="Alt text" width="200"/>
